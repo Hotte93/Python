@@ -1,0 +1,5 @@
+Exe erzeugen
+  cmd aufmachen
+  pyinstaller <Speicherort Datei> --onefile //pyinstaller baut Exe file, nur eine Datei (Speicherort in cmd Ausgabe beachten
+  
+  
