@@ -12,7 +12,7 @@ import binascii
 ###############################################################################
 while(True):
     
-   
+    #Ja Moin hier ist eine Änderung
     print("Auswahl treffen: ")
     
     print("1   int to hex/dec (HyCon)")
