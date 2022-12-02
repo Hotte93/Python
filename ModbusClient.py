@@ -10,7 +10,7 @@ import time
 
 client = ModbusClient('172.16.254.133', port=505)
 y= client.open()
-x =client.read_input_registers(0,125)
+x =client.get_input_registers
 print(x)
 time.sleep(0.5)
 client.close()
